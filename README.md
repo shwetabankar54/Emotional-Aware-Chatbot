@@ -1,5 +1,5 @@
-# Emotionally-Intelligent-Chatbot-for-Mental-Healthcare-and-suicide-prevention
-To provide a free service of interaction with a machine, the objective of “Emotionally Aware Chatbot” is to provide mental healthcare to those who are mentally-ill anywhere and anytime. It raises the question of what role, if any, the chatbot should play in suicide prevention. With this chatbot, we expect to reach as many mentally-ill people as possible by hosting this on web domains of known hospitals or counselors. If it is easy to detect mental health issues at the correct time and provide suitable help, it might save precious lives. If integrated with the hospital systems, this would provide an effective way to automate the work.
+# Emotionally-Intelligent-Chatbot
+To provide a free service of interaction with a machine, is the objective of “Emotionally Aware Chatbot”  It raises the question of what role, if any, the chatbot should play. With this chatbot, we expect to reach as many people as possible by hosting this on web domains.
 
 Software Used
 1.	“VS” Code: Visual Studio Code was the code used for most part of the project.
